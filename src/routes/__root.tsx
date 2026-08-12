@@ -10,7 +10,7 @@ export const Route = createRootRoute({
       { charSet: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1, viewport-fit=cover' },
       { name: 'theme-color', content: '#07120f' },
-      { title: 'Future Health — Your Health. One Intelligent Timeline.' },
+      { title: 'Vitality — Your Health. One Intelligent Timeline.' },
       { name: 'description', content: 'A secure personal health tracking and medication companion.' },
     ],
   }),

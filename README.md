@@ -1,6 +1,6 @@
-# Future Health
+# Vitality
 
-Future Health is a responsive personal health tracking and medication companion built as a production-oriented Netlify application. It gives authenticated users one private place to organize medications, daily activity, measurements, symptoms, mood, sleep, water, appointments, emergency information, notifications, reports, and a chronological health timeline.
+Vitality is a responsive personal health tracking and medication companion built as a production-oriented Netlify application. It gives authenticated users one private place to organize medications, daily activity, measurements, symptoms, mood, sleep, water, appointments, emergency information, notifications, reports, and a chronological health timeline.
 
 The product is intentionally informational. It does not diagnose disease, prescribe medication, or replace qualified healthcare professionals.
 

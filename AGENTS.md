@@ -1,8 +1,8 @@
-# Future Health Architecture
+# Vitality Architecture
 
 ## Project overview
 
-Future Health is a TanStack Start application deployed on Netlify. It combines a polished React health dashboard with Netlify Identity, Netlify Database, and Netlify Blobs. The application is informational and must never present recorded values or generated patterns as diagnosis, treatment, or medical advice.
+Vitality is a TanStack Start application deployed on Netlify. It combines a polished React health dashboard with Netlify Identity, Netlify Database, and Netlify Blobs. The application is informational and must never present recorded values or generated patterns as diagnosis, treatment, or medical advice.
 
 ## Key directories
 

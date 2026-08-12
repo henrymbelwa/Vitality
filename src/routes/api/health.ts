@@ -63,7 +63,7 @@ async function ensureProfileAndDemo(userId: string, email: string, fullName: str
     await db.insert(profiles).values({
       userId,
       email,
-      fullName: fullName || 'Future Health Member',
+      fullName: fullName || 'Vitality Member',
       bloodType: 'O+',
       allergies: 'No allergies recorded',
       emergencyContact: 'Add an emergency contact',
